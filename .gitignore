@@ -30,6 +30,9 @@ build/Release
 node_modules
 jspm_packages
 
+# Playground directory for testing
+playground
+
 # Optional npm cache directory
 .npm
 
